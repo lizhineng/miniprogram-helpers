@@ -1,0 +1,5 @@
+function format(date) {
+  return getDate(date).toLocaleString()
+}
+
+module.exports.format = format

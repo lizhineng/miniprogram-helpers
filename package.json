@@ -1,0 +1,16 @@
+{
+  "name": "@lizhineng/miniprogram-helpers",
+  "version": "0.1.0",
+  "description": "WeChat Mini Program template helper functions.",
+  "miniprogram": "wxs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Li Zhineng <im@zhineng.li> (https://zhineng.li/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
